@@ -4,4 +4,4 @@ public class Hello {
   }
 }
 
-// java hello_world.java 
+// java hello_world.java commande
