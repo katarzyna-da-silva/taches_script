@@ -1,0 +1,1 @@
+1. comment quitter vim? cest une bonne question!
